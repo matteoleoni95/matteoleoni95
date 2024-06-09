@@ -6,7 +6,7 @@
 🖥 🔐- Grande appassionato del mondo IT, con particolare interesse rivolto alla sicurezza informatica in tutte le sue sfaccettature.
 L'entusiasmante percorso intrapreso con Epicode quale Cybersecurity Specialist ha dato il via a trasformare la mia passione nel mio futuro lavoro. 
 
-🔥Valori personali:
+##🔥Valori personali:
 
 • Affidabilità 🛡
 
@@ -14,7 +14,7 @@ L'entusiasmante percorso intrapreso con Epicode quale Cybersecurity Specialist h
 
 • Responsabilità 💼
 
-🎯 Soft Skills:
+##🎯 Soft Skills:
 
 • Gestione dello stress🌿
 
@@ -22,7 +22,7 @@ L'entusiasmante percorso intrapreso con Epicode quale Cybersecurity Specialist h
 
 • Problem solving 🧩
 
-🛠 Hard Skills:
+##🛠 Hard Skills:
 
 • Vulnerability assessment 🔎
 
@@ -32,7 +32,7 @@ L'entusiasmante percorso intrapreso con Epicode quale Cybersecurity Specialist h
 
 • Analisi Malware 🦠
 
-
+## Altro
 📜 - Attualmente laurenando in ingegneria informatica, presso l'Università Mercatorum. 
 
 🇮🇹🪖 - Background di 9 anni e mezzo nell'Esercito Italiano
@@ -40,7 +40,7 @@ L'entusiasmante percorso intrapreso con Epicode quale Cybersecurity Specialist h
 🎮⚽️ - Amante dei videogiochi e dello sport.
 
 
-## Info
+## Info Repository
 
 In Questo profilo vengono mostrati i lavori più importanti effettuati durante il corso di Cybersecurity Specialist, della durata di 480 ore.
 
