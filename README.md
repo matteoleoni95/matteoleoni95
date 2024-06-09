@@ -9,20 +9,27 @@ L'entusiasmante percorso intrapreso con Epicode quale Cybersecurity Specialist h
 🔥Valori personali:
 
 • Affidabilità 🛡
+
 • Puntualità ⏰️
+
 • Responsabilità 💼
 
 🎯 Soft Skills:
 
 • Gestione dello stress🌿
+
 • Teamwork 👨‍💻👩‍💻
+
 • Problem solving 🧩
 
 🛠 Hard Skills:
 
 • Vulnerability assessment 🔎
+
 • Ethical Hacking Tools (ad esempio Burpsuite, Metasploit, Wireshark) 🦈
+
 • PenTesting 🔓
+
 • Analisi Malware 🦠
 
 
@@ -33,6 +40,7 @@ L'entusiasmante percorso intrapreso con Epicode quale Cybersecurity Specialist h
 🎮⚽️ - Amante dei videogiochi e dello sport.
 
 
+## Info
 
 In Questo profilo vengono mostrati i lavori più importanti effettuati durante il corso di Cybersecurity Specialist, della durata di 480 ore.
 
