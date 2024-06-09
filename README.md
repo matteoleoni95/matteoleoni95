@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**matteoleoni95/matteoleoni95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Screenshot 2024-06-09 093041](https://github.com/matteoleoni95/matteoleoni95/assets/161330884/a337b3b6-95d0-4279-8097-cdf9ddd6f4d0)
 
-Here are some ideas to get you started:
+## Hey there! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥 🔐- Grande appassionato del mondo IT, con particolare interesse rivolto alla sicurezza informatica in tutte le sue sfaccettature.
+L'entusiasmante percorso intrapreso con Epicode quale Cybersecurity Specialist ha dato il via a trasformare la mia passione nel mio futuro lavoro. 
+
+🔥Valori personali:
+
+• Affidabilità 🛡
+• Puntualità ⏰️
+• Responsabilità 💼
+
+🎯 Soft Skills:
+
+• Gestione dello stress🌿
+• Teamwork 👨‍💻👩‍💻
+• Problem solving 🧩
+
+🛠 Hard Skills:
+
+• Vulnerability assessment 🔎
+• Ethical Hacking Tools (ad esempio Burpsuite, Metasploit, Wireshark) 🦈
+• PenTesting 🔓
+• Analisi Malware 🦠
+
+
+📜 - Attualmente laurenando in ingegneria informatica, presso l'Università Mercatorum. 
+
+🇮🇹🪖 - Background di 9 anni e mezzo nell'Esercito Italiano
+
+🎮⚽️ - Amante dei videogiochi e dello sport.
+
+
+
+In Questo profilo vengono mostrati i lavori più importanti effettuati durante il corso di Cybersecurity Specialist, della durata di 480 ore.
+
