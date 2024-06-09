@@ -44,3 +44,7 @@ L'entusiasmante percorso intrapreso con Epicode quale Cybersecurity Specialist h
 
 In Questo profilo vengono mostrati i lavori più importanti effettuati durante il corso di Cybersecurity Specialist, della durata di 480 ore.
 
+Le build week sono stati lavori effettuati in team, di cui ne ero Leader.
+
+I progetti sono i lavori conclusivi settimanali, che riassumono grossomodo tutto il lavoro svolto durante la settimana stessa.
+
