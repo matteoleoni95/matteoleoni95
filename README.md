@@ -1,5 +1,6 @@
 
-![Screenshot 2024-06-09 093041](https://github.com/matteoleoni95/matteoleoni95/assets/161330884/a337b3b6-95d0-4279-8097-cdf9ddd6f4d0)
+![banner linkedin](https://github.com/matteoleoni95/matteoleoni95/assets/161330884/063a7add-1cd4-406d-8486-687b1f82eb96)
+
 
 ## Hey there! 👋
 
